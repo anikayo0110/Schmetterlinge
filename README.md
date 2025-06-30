@@ -2,17 +2,6 @@
 <head>
   <meta charset="UTF-8">
   
-    img {
-      max-width: 50%;
-      height: auto;
-    }
-    .container {
-      background-color: skyblue;
-      padding: 20px;
-      border-radius: 10px;
-      max-width: 800px;
-      margin: auto;
-    }
   </style>
 </head>
 <body>
