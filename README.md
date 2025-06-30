@@ -26,8 +26,9 @@
 <img src="Moni.jpeg" alt="Ein Schmetterling von Moni, 22"> <p><b>Ein Schmetterling von Moni, 22</b>
 
 
-    <p>Das waren die individuelle Schmetterlinge.</p>
-    <p>Danke, dass Sie die Webseite besucht haben. :)</p>
+    <p>Das waren die individuelle Schmetterlinge.<br>
+    Danke, dass Sie die Webseite besucht haben. :)</p>
   </div>
+  
 </body>
 </html>
