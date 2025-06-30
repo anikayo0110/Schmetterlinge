@@ -33,17 +33,17 @@
 </p>
 
 <img src="Orlin.JPEG" alt="Ein Schmetterling von Orlin, 10"> <p><b>Ein Schmetterling von Orlin, 10 </b></p>
-</p>
+
 <img src="Raya.JPEG" alt="Ein Schmetterling von Raya, 10"> <p><b>Ein Schmetterling von Raya, 10 </b></p>
-</p>
+
 <img src="Hrisi.JPEG" alt="Ein Schmetterling von Hrisi, 17"> <p><b>Ein Schmetterling von Hrisi, 17 </b></p>
-</p>
+
 <img src="Julia.JPEG" alt="Ein Schmetterling von Julia, 20"> <p><b>Ein Schmetterling von Julia, 20 </b></p>
-</p>
+
 <img src="Martin.JPEG" alt="Ein Schmetterling von Martin, 21"> <p><b>Ein Schmetterling von Martin, 21 </b></p>
-</p>
+
 <img src="Moni.JPEG" alt="Ein Schmetterling von Moni, 22"> <p><b>Ein Schmetterling von Moni, 22</b></p>
-</p>
+
 
     <p>Das waren die individuelle Schmetterlinge.</p> Danke, dass Sie die Webseite besucht haben. :) </p>
   </div>
