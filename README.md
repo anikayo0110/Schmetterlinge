@@ -28,8 +28,5 @@
 
     <p>Das waren die individuelle Schmetterlinge.</p>
     <p>Danke, dass Sie die Webseite besucht haben. :)</p>
-<pre> 
-</div>
-</body>
-</pre>
+
 </html>
