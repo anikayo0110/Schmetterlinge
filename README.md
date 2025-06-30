@@ -30,7 +30,6 @@
 
     <!-- Bild einfügen  -->
     <img src="Ivaylo.JPEG" alt="Ein Schmetterling von Ivaylo, 9"> <p><b>Ein Schmetterling von Ivaylo, 9 </b></p>
-</p>
 
 <img src="Orlin.JPEG" alt="Ein Schmetterling von Orlin, 10"> <p><b>Ein Schmetterling von Orlin, 10 </b></p>
 
