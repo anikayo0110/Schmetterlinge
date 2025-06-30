@@ -32,6 +32,4 @@
     <p>Das waren die individuelle Schmetterlinge.<br>
     Danke, dass Sie die Webseite besucht haben. :)</p>
   </div>
-  
-</body>
-</html>
+
