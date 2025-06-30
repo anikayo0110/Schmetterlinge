@@ -27,7 +27,7 @@
     <h1>Einzigartige Schmetterlinge!</h1>
     <p>Die Schmetterlinge sind von meine Familie gezeichnet worden im unterschiedlichen Alters:</p>
 
-    <!-- Bild einfügen  -->
+  
     <img src="Ivaylo.jpeg" alt="Ein Schmetterling von Ivaylo, 9"> <p><b>Ein Schmetterling von Ivaylo, 9 </b></p>
 </p>
 
