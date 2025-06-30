@@ -1,13 +1,7 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8">
-  <title>Die Schmetterlinge von meine Familie</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-    }
+  
     img {
       max-width: 50%;
       height: auto;
