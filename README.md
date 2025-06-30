@@ -28,7 +28,7 @@
     <p>Die Schmetterlinge sind von meine Familie gezeichnet worden im unterschiedlichen Alters:</p>
 
   
-    <img src="Ivaylo.jpeg" alt="Ein Schmetterling von Ivaylo, 9"> <p><b>Ein Schmetterling von Ivaylo, 9 </b></p>
+<img src="Ivaylo.jpeg" alt="Ein Schmetterling von Ivaylo, 9"> <p><b>Ein Schmetterling von Ivaylo, 9 </b></p>
 </p>
 
 <img src="Orlin.jpeg" alt="Ein Schmetterling von Orlin, 10"> <p><b>Ein Schmetterling von Orlin, 10 </b></p>
