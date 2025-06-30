@@ -27,4 +27,3 @@
 
 
     <p>Das waren die individuelle Schmetterlinge.</p> Danke, dass Sie die Webseite besucht haben. :) </p>
-  
