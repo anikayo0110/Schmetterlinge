@@ -5,7 +5,7 @@
 <body>
   <div class="container">
     <h1>Einzigartige Schmetterlinge!</h1>
-    <p>Die Schmetterlinge wurden von Mitgliedern meiner Familie in verschieden Alterstufen gezeichnet:</p>
+    <p>Die Schmetterlinge wurden von Mitgliedern meiner Familie in verschieden Alterstufen gezeichnet</p>
     <img src="Ivaylo.jpeg" alt="Ein Schmetterling von Ivaylo, 9">
     <p><b>Ein Schmetterling von Ivaylo, 9 </b></p>
     <img src="Orlin.jpeg" alt="Ein Schmetterling von Orlin, 10">
