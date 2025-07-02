@@ -13,7 +13,7 @@
     <img src="Raya.jpeg" alt="Ein Schmetterling von Raya, 10">
     <p><b>Ein Schmetterling von Raya, 10 </b></p>
     <img src="Hrisi.jpeg" alt="Ein Schmetterling von Hrisi, 17"> 
-    p><b>Ein Schmetterling von Hrisi, 17 </b></p>
+    <p><b>Ein Schmetterling von Hrisi, 17 </b></p>
     <img src="Julia.jpeg" alt="Ein Schmetterling von Julia, 20">
     <p><b>Ein Schmetterling von Julia, 20 </b></p>
     <img src="Martin.jpeg" alt="Ein Schmetterling von Martin, 21">
